@@ -1,4 +1,4 @@
-# A Simple WebRTC Example that uses promises.
+# A Simple WebRTC example that uses promises.
 
 The code in `rtc.js` can be used as follows:
 
